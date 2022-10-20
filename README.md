@@ -1,4 +1,4 @@
-<img align="center" src="https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952enruvberaszsgn6xu6pg178vz703y6n1mz51ewkx&rid=giphy.gif&ct=s"/>
+<img align="center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
 <hr>
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>

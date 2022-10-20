@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif"/>
+<img width="350px" align="right" src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif"/>
 
 - 🔭 I’m currently working on **Real-Time Chatting Application**
 

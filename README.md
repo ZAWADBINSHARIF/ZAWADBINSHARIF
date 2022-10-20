@@ -2,7 +2,7 @@
 <hr>
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>
-<img width="350px" align="right" src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif"/>
+<img width="350px" align="right" src="https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952enruvberaszsgn6xu6pg178vz703y6n1mz51ewkx&rid=giphy.gif&ct=s"/>
 - 🔭 I’m currently working on **Real-Time Chatting Application**
 
 - 🌱 I’m currently learning **React and TypeScript**

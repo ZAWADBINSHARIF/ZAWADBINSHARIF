@@ -1,3 +1,5 @@
+<img align="center" src="https://i.gifer.com/6tXM.gif" />
+<hr>
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>
 

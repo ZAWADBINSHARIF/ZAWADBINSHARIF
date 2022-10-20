@@ -3,12 +3,6 @@
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>
 <img width="350px" align="right" src="https://i.pinimg.com/originals/57/e2/09/57e209296e586933febadf06e271a3d3.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawadbinsharif&label=Profile%20views&color=0e75b6&style=flat" alt="zawadbinsharif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zawadbinsharif" alt="zawadbinsharif" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zawadbinsharif" target="blank"><img src="https://img.shields.io/twitter/follow/zawadbinsharif?logo=twitter&style=for-the-badge" alt="zawadbinsharif" /></a> </p>
-
 - 🔭 I’m currently working on **Real-Time Chatting Application**
 
 - 🌱 I’m currently learning **React and TypeScript**

@@ -1,4 +1,4 @@
-<img align="center" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="center" src="https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952enruvberaszsgn6xu6pg178vz703y6n1mz51ewkx&rid=giphy.gif&ct=s"/>
 <hr>
 <h1 align="center">Hi 👋, I'm ZAWAD BIN SHARIF</h1>
 <h3 align="center">A passionate Fullstack developer from Asia</h3>
